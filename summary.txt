@@ -1,0 +1,17 @@
+Analysis Summary
+================
+Total Sales: 322966.74900000007
+Average Sales: 322.96674900000005
+Highest Sales Branch: C
+Top Product Line: Food and beverages
+Customer Type Proportion: {'Member': 50.1, 'Normal': 49.9}
+Revenue by Gender: {'Male': 155083.82400000014, 'Female': 167882.92500000002}
+Most Used Payment Method: Ewallet
+Average Gross Margin: 4.761904762000062
+City with Highest Sales: Naypyitaw
+Average Quantity by Product Line: {'Health and beauty': 5.618421052631579, 'Electronic accessories': 5.711764705882353, 'Home and lifestyle': 5.69375, 'Sports and travel': 5.542168674698795, 'Food and beverages': 5.471264367816092, 'Fashion accessories': 5.067415730337078}
+Average High Rating Sales: 320.8962613636365
+Branch Sale:: {'A': 106200.3705000001, 'C': 110568.70649999994, 'B': 106197.67199999996}
+Peak Transaction Hour: 19
+Tax-to-Sales Ratio: 0.047619047619047616
+Revenue Above Threshold: 247953.70949999988
